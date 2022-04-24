@@ -12,6 +12,10 @@ body{
     font-family: Inconsolata;
     background: white;
 }
+a{ 
+    text-decoration:none;
+    color:#BDBDBD;
+}
 header > h1{
     width:133px;
     height:25px;
