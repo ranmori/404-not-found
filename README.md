@@ -63,4 +63,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - Website [https://github.com/ranmori](https://{your-web-site-link})
 - GitHub [@ranmori](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+
