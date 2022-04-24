@@ -42,7 +42,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 - Where can I see your demo?
 - What was your experience? this was great project at first it was kinda hard with the mobile version of it but finally discovered how
 - What have you learned/improved?
-- Your wisdom? :) keep on parcticing
+- Your wisdom? :) keep on practicing
 
 ## Features
 
